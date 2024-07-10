@@ -1,2 +1,2 @@
-# grocery-delivery
- online grocery shopping website using full stack web development
+# grocery-delivery-application
+grocery delivery application
